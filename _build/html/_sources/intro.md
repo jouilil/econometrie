@@ -6,6 +6,7 @@
 
 
 ```{admonition} Remarques
+:class: attention
 - Support du cours d'Econométrie, distribué gratuitement. Merci de signaler les erreurs éventuelles
 - Version 2023.
 - <font color='blue'>En cours d’amélioration !</font>

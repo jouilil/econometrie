@@ -5,10 +5,6 @@
 #### Prof. Jouilil Youness
 ##### Kenitra, le 25 octobre 2023
 
-```{admonition} Remarque
-- Version d'Octobre 2023. En cours d’amélioration (à ne pas diffuser!)
-- Support du cours d'Econométrie, distribué gratuitement. Merci de signaler les erreurs éventuelles
-```
 
 ##### 1. Présentation
 
@@ -22,19 +18,19 @@ Autrement dit, on cherche à prévoir le comportement moyen de la variable aléa
 - La loi de la demande : 
 
 $$
-X = a - b P_X ; (a,b) \in \mathbb{R}^{2}
+X = a - b P_X ~~~;~~~ (a,b) \in \mathbb{R}^{2}
 $$
 
 - La Fonction de consommation : 
 
 $$
-C = a + b Y ; (a,b) \in \mathbb{R}^{2}
+C = a + b Y ~~~;~~~ (a,b) \in \mathbb{R}^{2}
 $$
 
 - La Fonction de coût : 
 
 $$
-CT = a + b Q ; (a,b) \in \mathbb{R}^{2}
+CT = a + b Q ~~~;~~~ (a,b) \in \mathbb{R}^{2}
 $$
 
 ```
@@ -61,7 +57,7 @@ $$
 ```
 
 ```{admonition} Spécification
-- <font color='blue'>Modèle en coup instantanée (transversal)</font>
+- <font color='blue'>Modèle en coup instantané (transversal)</font>
 
 Les variables représentent des phénomènes observés au même instant mais concernent plusieurs individus.
 
@@ -71,7 +67,11 @@ $$
 
 *Exemple *
 
-La théorie Keynésienne stipule C = f(Y) avec $f^{'}$ > 0
+La théorie Keynésienne stipule :
+
+$$
+C = f(Y) ~~~avec~~~ f^{'} > 0
+$$
 
 $$
 C_{i} = \beta_{0} + \beta_{1}Y_{i} + \epsilon_{i}
@@ -292,7 +292,14 @@ Les estimateurs $\widehat{\beta_{0}}$ et $\widehat{\beta_{1}}$ sont des estimate
 
 ```{admonition} <font color='blue'>Devoir Libre N1</font>
 :class: attention
-**Le 1er DL (que vous devez faire en binôme) est à remettre avant le 08 Novembre 2023 (00:00) à l’adresse mail suivante  <font color='blue'>youness.jouilil@uit.ac.ma</font>**
+**Le 1er DL (que vous devez faire en binôme) est à remettre avant **le 08 Novembre 2023 (00:00)** à l’adresse mail suivante 
+
+<center>
+    
+<font color='blue'>**youness.jouilil@uit.ac.ma**</font>
+
+</center>
+
 ```
 
 ```{admonition} Conséquences du théorème de Gauss-Markov
@@ -591,7 +598,7 @@ On reprend l'exemple précédant.
 Test bilatéral : 
 
 $$
-H_{0}: \beta_{0} = 0  ~ contre  ~ H_{0}: \beta_{0} \neq 0
+H_{0}: \beta_{0} = 0  ~~~ contre  ~~~ H_{1}: \beta_{0} \neq 0
 $$
 
 **Règles de décision:**
@@ -619,7 +626,7 @@ $$
 Test bilatéral :
 
 $$
-H_{0}: \beta_{1} = 0  ~ contre  ~ H_{0}: \beta_{1} \neq 0
+H_{0}: \beta_{1} = 0  ~~~ contre  ~~~ H_{1}: \beta_{1} \neq 0
 $$
 
 **Règles de décision:**
@@ -648,7 +655,11 @@ $$
 
 #####  8. Exercices récapitulatifs
 
-Consulter les séries de travaux dirigés (séries 01 \& 02).
+Consulter les séries de travaux dirigés :
+
+- Série 01.
+
+- Série 02.
 
 ##### 9. Études de cas
 
@@ -658,5 +669,8 @@ Trois études de cas tirées de la théorie économique sont envisageables à sa
 
 -  Fonction de consommation Keynésienne
 
--  Mesure de l’effet macroéconomique de l'enseignement sur la croissance (Arrow, 1973), (Mankiw et al., 1991), (Aghion et al., 2004). 
+-  Mesure de la contribution de l'éducation à la croissance économique (Arrow, 1973), (Mankiw et al., 1991), (Aghion et al., 2004). 
 
+```
+
+```
