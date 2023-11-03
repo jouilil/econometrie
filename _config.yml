@@ -4,7 +4,7 @@
 title: FEG, Université Ibn Tofail    Prof. Jouilil Youness
 author: Prof. Jouilil Youness
 logo: logo.JPG
-
+copyright: '2023, Youness Jouilil'
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html

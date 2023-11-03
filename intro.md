@@ -2,12 +2,13 @@
 ### Master Recherche, Semestre 2
 ### Année universitaire 2023-2024
 #### Prof. Jouilil Youness
-##### Kenitra, le 25 cctobre 2023
+##### Kenitra, 2023
 
 
-```{admonition} Remarque
-- Version d'Octobre 2023. En cours d’amélioration (à ne pas diffuser!)
+```{admonition} Remarques
 - Support du cours d'Econométrie, distribué gratuitement. Merci de signaler les erreurs éventuelles
+- Version 2023.
+- <font color='blue'>En cours d’amélioration !</font>
 ```
 
 ```{admonition} Evaluation
