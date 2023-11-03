@@ -2,7 +2,7 @@
 ### Master Recherche, Semestre 2
 ### Année universitaire 2023-2024
 #### Prof. Jouilil Youness
-##### Kenitra, le 25 cctobre 2023
+##### Kenitra, octobre 2023
 
 
 ```{admonition} Remarques
